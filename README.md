@@ -1,21 +1,30 @@
-~ SNAKE GAME V1.0 ~
-Kigyós játék, mint a retró snake game-ek REKORD-al, és pontszámokkal.
+~ SNAKE GAME ~
 
-A fájl teljes mértékben megtekinthető, az egyetlen kérés, hogy ne publikáld ki úgy, mintha te írtad volna!
-A fájl vírusmentes, de ha szeretnéd megtekintheted a https://virustotal.com weboldalon!
-A játék pythonban íródott, így nem nagyon fogsz benne találni bármilyen vírust is.
-Jó játékot!
+-------------------------------------------
 
+- Információk:
+A játék teljes mértékben python-ban írodott, és 2 féle verzió közül választhatsz!
+Az egyik a retró játékokhoz hasonló. --> V1.1 Rekord & Pontszám rendszer.
+A másik pedig a slither.io-s változat, csak singleplayerbe, és kicsit másképpen kialakítva.
+
+-------------------------------------------
+
+- Verzió: SNAKE V1.1 INFORMÁCIÓK:
+Rekord & Pontszám rendszer.
+Irányítás: W,A,S,D.
+Ételek.
+
+-------------------------------------------
+
+- Verziói: SNAKE V2.0 INFORMÁCIÓK:
+Irányítás: Egér.
+Nagyon sok étel.
+Rövid & Hosszú halálos kígyók.
+  A rövid kígyó követi az egered.
+Nyerés & Vesztés rendszer.
+Kezdő képernyő. (Elindítás: Space)
+
+-------------------------------------------
+
+- Elérhetőségek:
 DISCORDOM: Sebyy#3572
-Ha bármi segítség kell, akkor írj nyugodtan.
-(Bár, mivel egyszerű ezért nem lesz rá szerintem szükség.)
-
----- Irányítás: ----
-FEL: W
-LE: S
-BALRA: A
-JOBBRA: D
----- WASD ----
-
-Ha nem indul el, akkor próbáld meg adminisztrátorként megnyitni. (Jobb klikk: Futtatás rendszergazdaként)
-Elkezdéshez nyomd meg a W,A,S,D egyikét!
